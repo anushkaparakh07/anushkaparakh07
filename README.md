@@ -2,10 +2,18 @@
 
 🎓 MCA Student
 
-💻 Skills:
+## Skills
+
 - Python
 - C++
 - SQL
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- Power BI
+- Git & GitHub
+
 
 🌱 Currently Learning:
 - Machine Learning
@@ -18,14 +26,3 @@
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/anushkaparakh07
   
-## Skills
-
-- Python
-- C++
-- SQL
-- Machine Learning
-- Pandas
-- NumPy
-- Scikit-Learn
-- Power BI
-- Git & GitHub
